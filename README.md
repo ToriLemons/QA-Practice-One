@@ -1,14 +1,13 @@
-# bootstrap-boilerplate
+# QA Practice One
 
 ## Description
-Take home for day 3
+First website for QA Practice
 
 ## Prerequisites
 -no prereqs
 
 ## Installation
--Click Download
--Allow download
+-No special steps needed
 
 ## Contributing
 
@@ -16,4 +15,4 @@ Take home for day 3
 General Honor Code
 
 ## Citation
-I havent copied code
+
