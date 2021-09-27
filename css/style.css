@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+
+/* ALL BODY */
+body {
+    text-align: center;
+    background-color: rgb(69, 76, 26);
+}
+
+#herotext {
+    color: white;
+    padding-top: 3vh;
+}
+
+a {
+    color: rgb(255, 232, 192);
+    font-family:'Cinzel', serif;
+}
+
+p {
+    color: rgb(255, 232, 192);
+    font-family:'newsreader', serif;
+    font-size: 2vh;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    font-family:'newsreader', serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 7vh;
+}
+
+h2 {
+    font-family:'newsreader', serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 5vh;
+}
+
+h4 {
+    font-family:'Cinzel', serif;
+    font-size: 3vh;
+}
+
+h5 {
+    font-family:'newsreader', serif;
+    font-weight: bold;
+}
+
+/* NAV BAR */
+nav {
+    background-color: rgb(69, 76, 26, .75);
+}
+
+.navbar-brand {
+    padding: 0 2vw;
+}
+
+/* IMG SECTION */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5vw;
+}
+
+.card {
+    margin: 2vw;
+    /* border: 2px solid black; */
+}
+
+.imgborder {
+    margin-top: 5px;
+    border: 2px solid black;
+    border-style: solid dashed double dotted;
+}
